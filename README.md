@@ -29,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
