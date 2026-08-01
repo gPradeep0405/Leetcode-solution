@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -48,5 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
