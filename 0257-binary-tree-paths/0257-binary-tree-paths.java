@@ -32,7 +32,6 @@ class Solution {
             recursion(li,s,root.left);
         }
         if(root.right!=null){
-
             recursion(li,s,root.right);
         }
     }
