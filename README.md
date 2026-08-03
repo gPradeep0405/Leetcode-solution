@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
