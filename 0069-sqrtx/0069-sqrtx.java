@@ -6,10 +6,10 @@ class Solution {
             // long val=mid*mid;
             if((long)mid*mid==(long)x){
                 return mid;
-            }else if((long)mid*mid<(long)x){
-                low=mid+1;
-            }else{
+            }else if((long)mid*mid>(long)x){
                 high=mid-1;
+            }else{
+                low=mid+1;
             }
         }
         return high;
