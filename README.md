@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
 ## Sorting
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Tree
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
