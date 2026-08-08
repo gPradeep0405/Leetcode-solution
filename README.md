@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
