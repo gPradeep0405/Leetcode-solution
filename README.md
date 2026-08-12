@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0290-word-pattern) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
