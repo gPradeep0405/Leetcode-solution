@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/gPradeep0405/Leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0290-word-pattern) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/gPradeep0405/Leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
