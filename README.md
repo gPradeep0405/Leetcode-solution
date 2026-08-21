@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0290-word-pattern) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0290-word-pattern) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gPradeep0405/Leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
