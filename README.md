@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0704-binary-search) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gPradeep0405/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
