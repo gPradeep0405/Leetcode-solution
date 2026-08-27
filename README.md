@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
