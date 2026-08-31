@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
