@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0257-binary-tree-paths](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0290-word-pattern) |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gPradeep0405/Leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
